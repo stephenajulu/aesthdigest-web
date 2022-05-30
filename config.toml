@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-gb"
+baseURL = "https://aesthdigest.netlify.app"
+languageCode = "en-us"
 title = "Aesthetical Digest"
 disableKinds = ["section"]
 pygmentsCodeFences = false
